@@ -1,0 +1,3 @@
+/home/lucas/Projects/tp3/tp3/bin/Release/tp3.exe
+/home/lucas/Projects/tp3/tp3/obj/x86/Release/tp3.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/tp3/tp3/obj/x86/Release/tp3.exe
