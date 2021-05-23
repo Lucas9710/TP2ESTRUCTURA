@@ -1,0 +1,3 @@
+/home/lucas/Projects/Tp2/EjercicioStruct/bin/Release/EjercicioStruct.exe
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Release/EjercicioStruct.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Release/EjercicioStruct.exe

@@ -1,0 +1,200 @@
+altura_fin_derecha,altura_fin_izquierda,altura_inicio_derecha,altura_inicio_izquierda,categoria,departamento_id,departamento_nombre,fuente,id,localidad_censal_id,localidad_censal_nombre,nombre,provincia_id,provincia_nombre
+998,999,900,901,CALLE,14014,Capital,INDEC,1401401025420,14014010,Córdoba,GUACHIPAS,14,Córdoba
+628,629,600,601,CALLE,14014,Capital,INDEC,1401401030290,14014010,Córdoba,MANUEL PINO,14,Córdoba
+199,200,1,2,AV,2007,Comuna 1,INDEC,200701001665,2000010,Ciudad Autónoma de Buenos Aires,AV PTE QUINTANA,2,Ciudad Autónoma de Buenos Aires
+1399,1400,1201,1202,CALLE,2007,Comuna 1,INDEC,200701001985,2000010,Ciudad Autónoma de Buenos Aires,BASAVILBASO,2,Ciudad Autónoma de Buenos Aires
+1699,1700,0,0,CALLE,2007,Comuna 1,INDEC,200701000290,2000010,Ciudad Autónoma de Buenos Aires,AIME PAINE,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2007,Comuna 1,INDEC,200701003180,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+799,800,701,702,CALLE,2007,Comuna 1,INDEC,200701004370,2000010,Ciudad Autónoma de Buenos Aires,DEL CARMEN,2,Ciudad Autónoma de Buenos Aires
+299,300,201,202,CALLE,2007,Comuna 1,INDEC,200701006455,2000010,Ciudad Autónoma de Buenos Aires,IGR ENRIQUE BUTTY,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2007,Comuna 1,INDEC,200701007490,2000010,Ciudad Autónoma de Buenos Aires,LETONIA,2,Ciudad Autónoma de Buenos Aires
+1799,1800,1601,1602,CALLE,2007,Comuna 1,INDEC,200701008400,2000010,Ciudad Autónoma de Buenos Aires,MOMPOX,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2007,Comuna 1,INDEC,200701008860,2000010,Ciudad Autónoma de Buenos Aires,PABLO GIORELLO,2,Ciudad Autónoma de Buenos Aires
+199,200,1,2,CALLE,2007,Comuna 1,INDEC,200701008985,2000010,Ciudad Autónoma de Buenos Aires,PARERA,2,Ciudad Autónoma de Buenos Aires
+899,900,801,802,CALLE,2007,Comuna 1,INDEC,200701010520,2000010,Ciudad Autónoma de Buenos Aires,SGTO CABRAL,2,Ciudad Autónoma de Buenos Aires
+499,500,401,402,CALLE,2007,Comuna 1,INDEC,200701011125,2000010,Ciudad Autónoma de Buenos Aires,USPALLATA,2,Ciudad Autónoma de Buenos Aires
+399,400,0,0,CALLE,2007,Comuna 1,INDEC,200701011290,2000010,Ciudad Autónoma de Buenos Aires,VICTORIA OCAMPO,2,Ciudad Autónoma de Buenos Aires
+1999,2000,1901,1902,CALLE,2007,Comuna 1,INDEC,200701011330,2000010,Ciudad Autónoma de Buenos Aires,VIEYRA,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2007,Comuna 1,INDEC,200701080010,2000010,Ciudad Autónoma de Buenos Aires,AV ANTARTIDA ARGENTINA,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2007,Comuna 1,INDEC,200701080015,2000010,Ciudad Autónoma de Buenos Aires,AV ELVIRA RAWSON DE DELLEPIANE,2,Ciudad Autónoma de Buenos Aires
+1699,1700,1601,1602,CALLE,2014,Comuna 2,INDEC,201401000870,2000010,Ciudad Autónoma de Buenos Aires,ARTURO CAPDEVILLA,2,Ciudad Autónoma de Buenos Aires
+2399,2400,0,0,AV,2014,Comuna 2,INDEC,201401001380,2000010,Ciudad Autónoma de Buenos Aires,AV GRL GELLY Y OBES,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2014,Comuna 2,INDEC,201401001760,2000010,Ciudad Autónoma de Buenos Aires,AV TOMAS A EDISON,2,Ciudad Autónoma de Buenos Aires
+1599,1600,0,0,CALLE,2014,Comuna 2,INDEC,201401001965,2000010,Ciudad Autónoma de Buenos Aires,BARRIENTOS,2,Ciudad Autónoma de Buenos Aires
+2699,2700,2601,2602,CALLE,2014,Comuna 2,INDEC,201401006765,2000010,Ciudad Autónoma de Buenos Aires,JOSE LEON PAGANO,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2014,Comuna 2,INDEC,201401010585,2000010,Ciudad Autónoma de Buenos Aires,SIN CORRESPONDENCIA,2,Ciudad Autónoma de Buenos Aires
+3599,3600,3201,3202,CALLE,2014,Comuna 2,INDEC,201401010625,2000010,Ciudad Autónoma de Buenos Aires,SOLER,2,Ciudad Autónoma de Buenos Aires
+3199,3200,3101,3102,CALLE,2021,Comuna 3,INDEC,202101003445,2000010,Ciudad Autónoma de Buenos Aires,CARLOS GARDEL,2,Ciudad Autónoma de Buenos Aires
+399,400,1,2,CALLE,2021,Comuna 3,INDEC,202101008360,2000010,Ciudad Autónoma de Buenos Aires,MISIONES,2,Ciudad Autónoma de Buenos Aires
+129,130,1,2,CALLE,2021,Comuna 3,INDEC,202101010355,2000010,Ciudad Autónoma de Buenos Aires,SANCHEZ DE BUSTAMANTE,2,Ciudad Autónoma de Buenos Aires
+3399,3400,3151,3152,CALLE,2028,Comuna 4,INDEC,202801000890,2000010,Ciudad Autónoma de Buenos Aires,ASCASUBI,2,Ciudad Autónoma de Buenos Aires
+399,400,1,2,AV,2028,Comuna 4,INDEC,202801001050,2000010,Ciudad Autónoma de Buenos Aires,AV BENITO PEREZ GALDOS,2,Ciudad Autónoma de Buenos Aires
+2299,2300,2001,2002,AV,2028,Comuna 4,INDEC,202801001190,2000010,Ciudad Autónoma de Buenos Aires,AV DARACT,2,Ciudad Autónoma de Buenos Aires
+3299,3300,3201,3202,AV,2028,Comuna 4,INDEC,202801001455,2000010,Ciudad Autónoma de Buenos Aires,AV ISIDRO LOREA,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2028,Comuna 4,INDEC,202801003075,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2028,Comuna 4,INDEC,202801003085,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+3399,3400,3201,3202,CALLE,2028,Comuna 4,INDEC,202801003605,2000010,Ciudad Autónoma de Buenos Aires,CAYASTA,2,Ciudad Autónoma de Buenos Aires
+4299,4300,4001,4002,CALLE,2028,Comuna 4,INDEC,202801004350,2000010,Ciudad Autónoma de Buenos Aires,DEKAY,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2028,Comuna 4,INDEC,202801005620,2000010,Ciudad Autónoma de Buenos Aires,FRANCISCO CAFFERATA,2,Ciudad Autónoma de Buenos Aires
+2699,2700,0,0,CALLE,2028,Comuna 4,INDEC,202801006110,2000010,Ciudad Autónoma de Buenos Aires,GUAL,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2401,2402,CALLE,2028,Comuna 4,INDEC,202801006435,2000010,Ciudad Autónoma de Buenos Aires,INDALECIO GOMEZ,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2501,2502,CALLE,2028,Comuna 4,INDEC,202801006800,2000010,Ciudad Autónoma de Buenos Aires,JOSE PAZOS,2,Ciudad Autónoma de Buenos Aires
+3599,3600,3501,3502,CALLE,2028,Comuna 4,INDEC,202801006935,2000010,Ciudad Autónoma de Buenos Aires,JUAN M THOME,2,Ciudad Autónoma de Buenos Aires
+699,700,601,602,CALLE,2028,Comuna 4,INDEC,202801007550,2000010,Ciudad Autónoma de Buenos Aires,LLORENTE,2,Ciudad Autónoma de Buenos Aires
+599,600,501,502,CALLE,2028,Comuna 4,INDEC,202801007625,2000010,Ciudad Autónoma de Buenos Aires,LOS TELARES,2,Ciudad Autónoma de Buenos Aires
+1199,1200,1101,1102,CALLE,2028,Comuna 4,INDEC,202801007660,2000010,Ciudad Autónoma de Buenos Aires,LUGO,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2501,2502,CALLE,2028,Comuna 4,INDEC,202801007980,2000010,Ciudad Autónoma de Buenos Aires,MARCOS SEGUIN,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2501,2502,CALLE,2028,Comuna 4,INDEC,202801008540,2000010,Ciudad Autónoma de Buenos Aires,MUTUALISMO,2,Ciudad Autónoma de Buenos Aires
+499,500,1,2,CALLE,2028,Comuna 4,INDEC,202801008965,2000010,Ciudad Autónoma de Buenos Aires,PARACAS,2,Ciudad Autónoma de Buenos Aires
+1199,1200,749,752,CALLE,2028,Comuna 4,INDEC,202801009375,2000010,Ciudad Autónoma de Buenos Aires,PILCOMAYO,2,Ciudad Autónoma de Buenos Aires
+299,300,201,202,PJE,2028,Comuna 4,INDEC,202801009475,2000010,Ciudad Autónoma de Buenos Aires,PJE S N,2,Ciudad Autónoma de Buenos Aires
+1199,1200,1101,1102,CALLE,2028,Comuna 4,INDEC,202801010020,2000010,Ciudad Autónoma de Buenos Aires,ROCHDALE,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2501,2502,CALLE,2028,Comuna 4,INDEC,202801010815,2000010,Ciudad Autónoma de Buenos Aires,TIERRA DEL FUEGO,2,Ciudad Autónoma de Buenos Aires
+3299,3300,3201,3202,CALLE,2028,Comuna 4,INDEC,202801011475,2000010,Ciudad Autónoma de Buenos Aires,WILLIAM C MORRIS,2,Ciudad Autónoma de Buenos Aires
+3999,4000,3901,3902,CALLE,2035,Comuna 5,INDEC,203501000640,2000010,Ciudad Autónoma de Buenos Aires,ANGEL PELUFFO,2,Ciudad Autónoma de Buenos Aires
+3399,3400,3301,3302,CALLE,2035,Comuna 5,INDEC,203501002010,2000010,Ciudad Autónoma de Buenos Aires,BATHURST,2,Ciudad Autónoma de Buenos Aires
+4599,4600,4401,4402,CALLE,2035,Comuna 5,INDEC,203501002245,2000010,Ciudad Autónoma de Buenos Aires,BOGADO,2,Ciudad Autónoma de Buenos Aires
+3599,3600,3401,3402,CALLE,2035,Comuna 5,INDEC,203501005745,2000010,Ciudad Autónoma de Buenos Aires,GALLEGOS,2,Ciudad Autónoma de Buenos Aires
+3899,3900,3801,3802,CALLE,2035,Comuna 5,INDEC,203501006425,2000010,Ciudad Autónoma de Buenos Aires,INCA,2,Ciudad Autónoma de Buenos Aires
+699,700,501,502,CALLE,2035,Comuna 5,INDEC,203501006755,2000010,Ciudad Autónoma de Buenos Aires,JOSE JULIAN PEREZ,2,Ciudad Autónoma de Buenos Aires
+4399,4400,4301,4302,CALLE,2035,Comuna 5,INDEC,203501008705,2000010,Ciudad Autónoma de Buenos Aires,OBRERO ROBERTO NUNEZ,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2035,Comuna 5,INDEC,203501010590,2000010,Ciudad Autónoma de Buenos Aires,SIN CORRESPONDENCIA,2,Ciudad Autónoma de Buenos Aires
+499,500,0,0,CALLE,2042,Comuna 6,INDEC,204201000170,2000010,Ciudad Autónoma de Buenos Aires,ACHAVAL,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2042,Comuna 6,INDEC,204201001535,2000010,Ciudad Autónoma de Buenos Aires,AV LILLO,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2042,Comuna 6,INDEC,204201001700,2000010,Ciudad Autónoma de Buenos Aires,AV ROENTGEN,2,Ciudad Autónoma de Buenos Aires
+599,600,547,548,CALLE,2042,Comuna 6,INDEC,204201002025,2000010,Ciudad Autónoma de Buenos Aires,BEADE,2,Ciudad Autónoma de Buenos Aires
+699,700,601,602,CALLE,2042,Comuna 6,INDEC,204201002155,2000010,Ciudad Autónoma de Buenos Aires,BERNAL,2,Ciudad Autónoma de Buenos Aires
+499,500,1,2,CALLE,2042,Comuna 6,INDEC,204201005430,2000010,Ciudad Autónoma de Buenos Aires,FEDERICO GARCIA LORCA,2,Ciudad Autónoma de Buenos Aires
+599,600,1,2,CALLE,2042,Comuna 6,INDEC,204201008355,2000010,Ciudad Autónoma de Buenos Aires,MIRO,2,Ciudad Autónoma de Buenos Aires
+99,100,1,2,CALLE,2042,Comuna 6,INDEC,204201009885,2000010,Ciudad Autónoma de Buenos Aires,REPUBLICA DE INDONESIA,2,Ciudad Autónoma de Buenos Aires
+419,420,1,2,AV,2049,Comuna 7,INDEC,204901001790,2000010,Ciudad Autónoma de Buenos Aires,AV VERNET,2,Ciudad Autónoma de Buenos Aires
+1299,1300,1201,1202,CALLE,2049,Comuna 7,INDEC,204901002075,2000010,Ciudad Autónoma de Buenos Aires,BELL VILLE,2,Ciudad Autónoma de Buenos Aires
+1499,1500,1401,1402,CALLE,2049,Comuna 7,INDEC,204901002400,2000010,Ciudad Autónoma de Buenos Aires,CABALLITO,2,Ciudad Autónoma de Buenos Aires
+599,600,159,160,CALLE,2049,Comuna 7,INDEC,204901002480,2000010,Ciudad Autónoma de Buenos Aires,CALCENA,2,Ciudad Autónoma de Buenos Aires
+2299,2300,2001,2002,CALLE,2049,Comuna 7,INDEC,204901002565,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2049,Comuna 7,INDEC,204901002980,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+1199,1200,1101,1102,CALLE,2049,Comuna 7,INDEC,204901003350,2000010,Ciudad Autónoma de Buenos Aires,CAPERUCITA,2,Ciudad Autónoma de Buenos Aires
+1299,1300,1101,1102,CALLE,2049,Comuna 7,INDEC,204901003395,2000010,Ciudad Autónoma de Buenos Aires,CARICANCHA,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2049,Comuna 7,INDEC,204901003405,2000010,Ciudad Autónoma de Buenos Aires,CARLOS BERG,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2049,Comuna 7,INDEC,204901003695,2000010,Ciudad Autónoma de Buenos Aires,CHARRUA,2,Ciudad Autónoma de Buenos Aires
+599,600,501,502,CALLE,2049,Comuna 7,INDEC,204901003765,2000010,Ciudad Autónoma de Buenos Aires,CIPOLLETTI,2,Ciudad Autónoma de Buenos Aires
+1199,1200,1101,1102,CALLE,2049,Comuna 7,INDEC,204901007110,2000010,Ciudad Autónoma de Buenos Aires,LA CAPITAL,2,Ciudad Autónoma de Buenos Aires
+1999,2000,0,0,CALLE,2049,Comuna 7,INDEC,204901009290,2000010,Ciudad Autónoma de Buenos Aires,PERGAMINO,2,Ciudad Autónoma de Buenos Aires
+1299,1300,1101,1102,CALLE,2049,Comuna 7,INDEC,204901009305,2000010,Ciudad Autónoma de Buenos Aires,PERRAULT,2,Ciudad Autónoma de Buenos Aires
+1299,1300,1201,1202,CALLE,2049,Comuna 7,INDEC,204901009790,2000010,Ciudad Autónoma de Buenos Aires,RAMON Y CAJAL,2,Ciudad Autónoma de Buenos Aires
+1999,2000,0,0,CALLE,2049,Comuna 7,INDEC,204901010640,2000010,Ciudad Autónoma de Buenos Aires,SOMELLERA,2,Ciudad Autónoma de Buenos Aires
+1899,1900,1801,1802,CALLE,2049,Comuna 7,INDEC,204901010825,2000010,Ciudad Autónoma de Buenos Aires,TIMBO,2,Ciudad Autónoma de Buenos Aires
+1799,1800,1601,1602,CALLE,2049,Comuna 7,INDEC,204901011000,2000010,Ciudad Autónoma de Buenos Aires,TTE GRL N LEVALLE,2,Ciudad Autónoma de Buenos Aires
+1599,1600,1501,1502,CALLE,2049,Comuna 7,INDEC,204901011060,2000010,Ciudad Autónoma de Buenos Aires,UCACHA,2,Ciudad Autónoma de Buenos Aires
+1599,1600,1501,1502,CALLE,2049,Comuna 7,INDEC,204901011530,2000010,Ciudad Autónoma de Buenos Aires,ZAPALA,2,Ciudad Autónoma de Buenos Aires
+4199,4200,4101,4102,CALLE,2056,Comuna 8,INDEC,205601000370,2000010,Ciudad Autónoma de Buenos Aires,ALFARERO,2,Ciudad Autónoma de Buenos Aires
+2999,0,0,0,CALLE,2056,Comuna 8,INDEC,205601000900,2000010,Ciudad Autónoma de Buenos Aires,ASTURIAS,2,Ciudad Autónoma de Buenos Aires
+7199,7200,7191,7192,AV,2056,Comuna 8,INDEC,205601001330,2000010,Ciudad Autónoma de Buenos Aires,AV EVA PERON,2,Ciudad Autónoma de Buenos Aires
+248,249,200,201,CALLE,14014,Capital,INDEC,1401401025630,14014010,Córdoba,GUSTAVO VAN MARCK,14,Córdoba
+3998,3999,3800,3801,CALLE,14014,Capital,INDEC,1401401025635,14014010,Córdoba,GUSTAVO WALTHER,14,Córdoba
+2899,2900,2801,2802,CALLE,2056,Comuna 8,INDEC,205601001950,2000010,Ciudad Autónoma de Buenos Aires,BARCELONA,2,Ciudad Autónoma de Buenos Aires
+4899,4900,4701,4702,CALLE,2056,Comuna 8,INDEC,205601002895,2000010,Ciudad Autónoma de Buenos Aires,CALLE S N,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2056,Comuna 8,INDEC,205601003675,2000010,Ciudad Autónoma de Buenos Aires,CHAJARI,2,Ciudad Autónoma de Buenos Aires
+5599,5600,5551,5552,CALLE,2056,Comuna 8,INDEC,205601004225,2000010,Ciudad Autónoma de Buenos Aires,CURA BROCHERO,2,Ciudad Autónoma de Buenos Aires
+5899,5900,0,0,CALLE,2056,Comuna 8,INDEC,205601006045,2000010,Ciudad Autónoma de Buenos Aires,GRL NAPOLEON URIBURU,2,Ciudad Autónoma de Buenos Aires
+4199,4200,4101,4102,CALLE,2056,Comuna 8,INDEC,205601006200,2000010,Ciudad Autónoma de Buenos Aires,GUILLERMO HUDSON,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2056,Comuna 8,INDEC,205601007590,2000010,Ciudad Autónoma de Buenos Aires,LOS CEDROS,2,Ciudad Autónoma de Buenos Aires
+5499,5500,5401,5402,CALLE,2056,Comuna 8,INDEC,205601007815,2000010,Ciudad Autónoma de Buenos Aires,MALDONADO,2,Ciudad Autónoma de Buenos Aires
+4099,4100,0,0,CALLE,2056,Comuna 8,INDEC,205601008930,2000010,Ciudad Autónoma de Buenos Aires,PAILEBOT DAVISON,2,Ciudad Autónoma de Buenos Aires
+5399,5400,5001,5002,PJE,2056,Comuna 8,INDEC,205601009485,2000010,Ciudad Autónoma de Buenos Aires,PJE S N,2,Ciudad Autónoma de Buenos Aires
+6499,6500,0,0,CALLE,2056,Comuna 8,INDEC,205601009970,2000010,Ciudad Autónoma de Buenos Aires,RIO NEGRO,2,Ciudad Autónoma de Buenos Aires
+2199,2200,2101,2102,CALLE,2056,Comuna 8,INDEC,205601010370,2000010,Ciudad Autónoma de Buenos Aires,SANTA CATALINA,2,Ciudad Autónoma de Buenos Aires
+6598,6599,6500,6501,CALLE,14014,Capital,INDEC,1401401025700,14014010,Córdoba,HECTOR ODDONE,14,Córdoba
+3699,3700,3401,3402,CALLE,2056,Comuna 8,INDEC,205601011230,2000010,Ciudad Autónoma de Buenos Aires,VERACRUZ,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2056,Comuna 8,INDEC,205601011245,2000010,Ciudad Autónoma de Buenos Aires,VALMTE IRIZAR,2,Ciudad Autónoma de Buenos Aires
+5499,5500,5401,5402,CALLE,2056,Comuna 8,INDEC,205601011255,2000010,Ciudad Autónoma de Buenos Aires,VICENTE DE SIMONE,2,Ciudad Autónoma de Buenos Aires
+3449,3450,3351,3352,CALLE,2056,Comuna 8,INDEC,205601011350,2000010,Ciudad Autónoma de Buenos Aires,VILLA DE MASNOU,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2056,Comuna 8,INDEC,205601080005,2000010,Ciudad Autónoma de Buenos Aires,AV 27 DE FEBRERO,2,Ciudad Autónoma de Buenos Aires
+2649,3000,0,0,CALLE,2063,Comuna 9,INDEC,206301000900,2000010,Ciudad Autónoma de Buenos Aires,ASTURIAS,2,Ciudad Autónoma de Buenos Aires
+4199,4200,4101,4102,CALLE,2063,Comuna 9,INDEC,206301003480,2000010,Ciudad Autónoma de Buenos Aires,CARLOS MOREL,2,Ciudad Autónoma de Buenos Aires
+1399,1400,1301,1302,CALLE,2063,Comuna 9,INDEC,206301004135,2000010,Ciudad Autónoma de Buenos Aires,COTOCOLLAO,2,Ciudad Autónoma de Buenos Aires
+5199,5200,5101,5102,CALLE,2063,Comuna 9,INDEC,206301004235,2000010,Ciudad Autónoma de Buenos Aires,CURITYBA,2,Ciudad Autónoma de Buenos Aires
+6999,7000,6801,6802,CALLE,2063,Comuna 9,INDEC,206301004880,2000010,Ciudad Autónoma de Buenos Aires,EL CARDENAL,2,Ciudad Autónoma de Buenos Aires
+6999,7000,6801,6802,CALLE,2063,Comuna 9,INDEC,206301004885,2000010,Ciudad Autónoma de Buenos Aires,EL CARPINTERO,2,Ciudad Autónoma de Buenos Aires
+3499,3500,3401,3402,CALLE,2063,Comuna 9,INDEC,206301004895,2000010,Ciudad Autónoma de Buenos Aires,EL CERRO,2,Ciudad Autónoma de Buenos Aires
+699,700,301,302,CALLE,2063,Comuna 9,INDEC,206301004900,2000010,Ciudad Autónoma de Buenos Aires,EL CHACHO,2,Ciudad Autónoma de Buenos Aires
+1399,1400,1301,1302,CALLE,2063,Comuna 9,INDEC,206301005495,2000010,Ciudad Autónoma de Buenos Aires,FINLANDIA,2,Ciudad Autónoma de Buenos Aires
+1999,2000,1701,1702,CALLE,2063,Comuna 9,INDEC,206301005565,2000010,Ciudad Autónoma de Buenos Aires,FRAGATA CEFIRO,2,Ciudad Autónoma de Buenos Aires
+6999,7000,6901,6902,CALLE,2063,Comuna 9,INDEC,206301005645,2000010,Ciudad Autónoma de Buenos Aires,FRANCISCO J ORTIZ,2,Ciudad Autónoma de Buenos Aires
+799,800,0,0,CALLE,2063,Comuna 9,INDEC,206301005835,2000010,Ciudad Autónoma de Buenos Aires,GERONIMO CORTES,2,Ciudad Autónoma de Buenos Aires
+1199,1200,1101,1102,CALLE,2063,Comuna 9,INDEC,206301005950,2000010,Ciudad Autónoma de Buenos Aires,GRAHAM R CUNNINGHAME,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2063,Comuna 9,INDEC,206301005955,2000010,Ciudad Autónoma de Buenos Aires,GRL CESAR DIAZ,2,Ciudad Autónoma de Buenos Aires
+999,1000,901,902,CALLE,2063,Comuna 9,INDEC,206301006205,2000010,Ciudad Autónoma de Buenos Aires,GUIPUZCOA,2,Ciudad Autónoma de Buenos Aires
+6999,7000,6901,6902,CALLE,2063,Comuna 9,INDEC,206301006815,2000010,Ciudad Autónoma de Buenos Aires,JOSE R BALTORE,2,Ciudad Autónoma de Buenos Aires
+7499,7500,7401,7402,CALLE,2063,Comuna 9,INDEC,206301006855,2000010,Ciudad Autónoma de Buenos Aires,JUAN B PRIMOLI,2,Ciudad Autónoma de Buenos Aires
+1499,1500,1301,1302,CALLE,2063,Comuna 9,INDEC,206301006925,2000010,Ciudad Autónoma de Buenos Aires,JUAN LEON PALLIERE,2,Ciudad Autónoma de Buenos Aires
+3699,3700,3501,3502,CALLE,2063,Comuna 9,INDEC,206301007990,2000010,Ciudad Autónoma de Buenos Aires,MARIA REMEDIOS DEL VALLE,2,Ciudad Autónoma de Buenos Aires
+1999,2000,1101,1102,CALLE,2063,Comuna 9,INDEC,206301008390,2000010,Ciudad Autónoma de Buenos Aires,MOLINA,2,Ciudad Autónoma de Buenos Aires
+7499,7500,7101,7102,CALLE,2063,Comuna 9,INDEC,206301008770,2000010,Ciudad Autónoma de Buenos Aires,ONESIMO LEGUIZAMON,2,Ciudad Autónoma de Buenos Aires
+81,82,1,2,PJE,2063,Comuna 9,INDEC,206301009080,2000010,Ciudad Autónoma de Buenos Aires,PASAJE PARTICULAR,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2063,Comuna 9,INDEC,206301009120,2000010,Ciudad Autónoma de Buenos Aires,PASEO DE LOS ARTISTAS,2,Ciudad Autónoma de Buenos Aires
+5599,5600,5501,5502,PJE,2063,Comuna 9,INDEC,206301009455,2000010,Ciudad Autónoma de Buenos Aires,PJE LA MISERICORDIA,2,Ciudad Autónoma de Buenos Aires
+599,600,501,502,PJE,2063,Comuna 9,INDEC,206301009495,2000010,Ciudad Autónoma de Buenos Aires,PJE TOMAS VALENCIA,2,Ciudad Autónoma de Buenos Aires
+7199,7200,7101,7102,CALLE,2063,Comuna 9,INDEC,206301009540,2000010,Ciudad Autónoma de Buenos Aires,POLONIA,2,Ciudad Autónoma de Buenos Aires
+149,150,1,2,CALLE,2063,Comuna 9,INDEC,206301009595,2000010,Ciudad Autónoma de Buenos Aires,PRELADO D B RISSO PATRON,2,Ciudad Autónoma de Buenos Aires
+7599,7600,7401,7402,CALLE,2063,Comuna 9,INDEC,206301010910,2000010,Ciudad Autónoma de Buenos Aires,TRENQUE LAUQUEN,2,Ciudad Autónoma de Buenos Aires
+7049,7050,7001,7002,CALLE,2063,Comuna 9,INDEC,206301010965,2000010,Ciudad Autónoma de Buenos Aires,TTE CANDIDO DE LA SALA,2,Ciudad Autónoma de Buenos Aires
+99,100,1,2,CALLE,2063,Comuna 9,INDEC,206301011050,2000010,Ciudad Autónoma de Buenos Aires,TUYU,2,Ciudad Autónoma de Buenos Aires
+6399,6400,6001,6002,CALLE,2063,Comuna 9,INDEC,206301011490,2000010,Ciudad Autónoma de Buenos Aires,YERBAL,2,Ciudad Autónoma de Buenos Aires
+5649,5650,5601,5602,CALLE,2070,Comuna 10,INDEC,207001000190,2000010,Ciudad Autónoma de Buenos Aires,ACONCAGUA,2,Ciudad Autónoma de Buenos Aires
+1999,2000,1901,1902,CALLE,2070,Comuna 10,INDEC,207001000415,2000010,Ciudad Autónoma de Buenos Aires,ALICANTE,2,Ciudad Autónoma de Buenos Aires
+399,400,1,2,AV,2070,Comuna 10,INDEC,207001001500,2000010,Ciudad Autónoma de Buenos Aires,AV LACARRA,2,Ciudad Autónoma de Buenos Aires
+4999,5000,4901,4902,CALLE,2070,Comuna 10,INDEC,207001002205,2000010,Ciudad Autónoma de Buenos Aires,BEYROUTH,2,Ciudad Autónoma de Buenos Aires
+2999,3000,2901,2902,CALLE,2070,Comuna 10,INDEC,207001003935,2000010,Ciudad Autónoma de Buenos Aires,COLIGUE,2,Ciudad Autónoma de Buenos Aires
+2199,2200,2001,2002,CALLE,2070,Comuna 10,INDEC,207001003940,2000010,Ciudad Autónoma de Buenos Aires,COLIQUEO,2,Ciudad Autónoma de Buenos Aires
+499,500,1,2,CALLE,2070,Comuna 10,INDEC,207001004480,2000010,Ciudad Autónoma de Buenos Aires,DOLORES,2,Ciudad Autónoma de Buenos Aires
+899,900,701,702,CALLE,2070,Comuna 10,INDEC,207001005100,2000010,Ciudad Autónoma de Buenos Aires,EMILIO CASTELAR,2,Ciudad Autónoma de Buenos Aires
+4899,4900,4801,4802,CALLE,2070,Comuna 10,INDEC,207001005110,2000010,Ciudad Autónoma de Buenos Aires,EMILIO DE ALVEAR,2,Ciudad Autónoma de Buenos Aires
+5599,5600,5501,5502,CALLE,2070,Comuna 10,INDEC,207001005775,2000010,Ciudad Autónoma de Buenos Aires,GARCIA DE COSSIO,2,Ciudad Autónoma de Buenos Aires
+5099,5100,4701,4702,CALLE,2070,Comuna 10,INDEC,207001006720,2000010,Ciudad Autónoma de Buenos Aires,JOSE DE MATURANA,2,Ciudad Autónoma de Buenos Aires
+6299,6300,6201,6202,CALLE,2070,Comuna 10,INDEC,207001007140,2000010,Ciudad Autónoma de Buenos Aires,LA DILIGENCIA,2,Ciudad Autónoma de Buenos Aires
+399,400,1,2,CALLE,2070,Comuna 10,INDEC,207001007930,2000010,Ciudad Autónoma de Buenos Aires,MANZONI,2,Ciudad Autónoma de Buenos Aires
+1099,1100,901,902,CALLE,2070,Comuna 10,INDEC,207001007940,2000010,Ciudad Autónoma de Buenos Aires,MAR DEL PLATA,2,Ciudad Autónoma de Buenos Aires
+4599,4600,4501,4502,CALLE,2070,Comuna 10,INDEC,207001007985,2000010,Ciudad Autónoma de Buenos Aires,MARIA A DE LA PAZ Y FIGUEROA,2,Ciudad Autónoma de Buenos Aires
+399,400,301,302,CALLE,2070,Comuna 10,INDEC,207001008245,2000010,Ciudad Autónoma de Buenos Aires,MENENDEZ Y PELAYO,2,Ciudad Autónoma de Buenos Aires
+2699,2700,2601,2602,CALLE,2070,Comuna 10,INDEC,207001008285,2000010,Ciudad Autónoma de Buenos Aires,MIGUEL COUTO,2,Ciudad Autónoma de Buenos Aires
+499,500,1,2,CALLE,2070,Comuna 10,INDEC,207001008310,2000010,Ciudad Autónoma de Buenos Aires,MILTON,2,Ciudad Autónoma de Buenos Aires
+4399,4400,4001,4002,CALLE,2070,Comuna 10,INDEC,207001008335,2000010,Ciudad Autónoma de Buenos Aires,MIRAMAR,2,Ciudad Autónoma de Buenos Aires
+1599,1600,1301,1302,CALLE,2070,Comuna 10,INDEC,207001008560,2000010,Ciudad Autónoma de Buenos Aires,NANDUTI,2,Ciudad Autónoma de Buenos Aires
+999,1000,901,902,CALLE,2070,Comuna 10,INDEC,207001009255,2000010,Ciudad Autónoma de Buenos Aires,PEHUAJO,2,Ciudad Autónoma de Buenos Aires
+799,800,1,2,CALLE,2070,Comuna 10,INDEC,207001010320,2000010,Ciudad Autónoma de Buenos Aires,SAN NICOLAS,2,Ciudad Autónoma de Buenos Aires
+6199,6200,5301,5302,CALLE,2070,Comuna 10,INDEC,207001010555,2000010,Ciudad Autónoma de Buenos Aires,SIMBRON,2,Ciudad Autónoma de Buenos Aires
+1699,1700,1601,1602,CALLE,2077,Comuna 11,INDEC,207701000430,2000010,Ciudad Autónoma de Buenos Aires,ALMAGRO,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,AV,2077,Comuna 11,INDEC,207701001120,2000010,Ciudad Autónoma de Buenos Aires,AV CHORROARIN,2,Ciudad Autónoma de Buenos Aires
+3699,3700,0,0,AV,2077,Comuna 11,INDEC,207701001460,2000010,Ciudad Autónoma de Buenos Aires,AV JOSE FAGNANO,2,Ciudad Autónoma de Buenos Aires
+3698,3699,3100,3101,CALLE,14014,Capital,INDEC,1401401025790,14014010,Córdoba,HERNANDO MAGALLANES,14,Córdoba
+2099,2100,1701,1702,AV,2077,Comuna 11,INDEC,207701001770,2000010,Ciudad Autónoma de Buenos Aires,AV TTE GRL DONATO ALVAREZ,2,Ciudad Autónoma de Buenos Aires
+2399,2400,2301,2302,CALLE,2077,Comuna 11,INDEC,207701001990,2000010,Ciudad Autónoma de Buenos Aires,BASILIO CITTADINI,2,Ciudad Autónoma de Buenos Aires
+2699,2700,2301,2302,CALLE,2077,Comuna 11,INDEC,207701002170,2000010,Ciudad Autónoma de Buenos Aires,BERNARDO DE LEON,2,Ciudad Autónoma de Buenos Aires
+2799,2800,2701,2702,CALLE,2077,Comuna 11,INDEC,207701004535,2000010,Ciudad Autónoma de Buenos Aires,DR ALEJANDRO POSADAS,2,Ciudad Autónoma de Buenos Aires
+3749,3750,3301,3302,CALLE,2077,Comuna 11,INDEC,207701005660,2000010,Ciudad Autónoma de Buenos Aires,FRANCO,2,Ciudad Autónoma de Buenos Aires
+2799,2800,2701,2702,CALLE,2077,Comuna 11,INDEC,207701005710,2000010,Ciudad Autónoma de Buenos Aires,GABINO EZEIZA,2,Ciudad Autónoma de Buenos Aires
+3199,3200,3101,3102,CALLE,2077,Comuna 11,INDEC,207701005815,2000010,Ciudad Autónoma de Buenos Aires,GAZETA DE BUENOS AIRES,2,Ciudad Autónoma de Buenos Aires
+2599,2600,2501,2502,CALLE,2077,Comuna 11,INDEC,207701006440,2000010,Ciudad Autónoma de Buenos Aires,INDIO,2,Ciudad Autónoma de Buenos Aires
+2299,2300,2201,2202,CALLE,2077,Comuna 11,INDEC,207701006445,2000010,Ciudad Autónoma de Buenos Aires,IGR AGUSTIN GONZALEZ,2,Ciudad Autónoma de Buenos Aires
+2999,3000,2601,2602,CALLE,2077,Comuna 11,INDEC,207701006740,2000010,Ciudad Autónoma de Buenos Aires,JOSE INGENIEROS,2,Ciudad Autónoma de Buenos Aires
+2299,2300,2101,2102,CALLE,2077,Comuna 11,INDEC,207701007105,2000010,Ciudad Autónoma de Buenos Aires,LA CALANDRIA,2,Ciudad Autónoma de Buenos Aires
+2499,2500,2401,2402,CALLE,2077,Comuna 11,INDEC,207701007775,2000010,Ciudad Autónoma de Buenos Aires,MAGDALENA,2,Ciudad Autónoma de Buenos Aires
+1999,2000,1901,1902,CALLE,2077,Comuna 11,INDEC,207701007855,2000010,Ciudad Autónoma de Buenos Aires,MANUEL DE SAN GINES,2,Ciudad Autónoma de Buenos Aires
+5299,5300,5201,5202,CALLE,2077,Comuna 11,INDEC,207701008145,2000010,Ciudad Autónoma de Buenos Aires,MATEO J MARTINEZ,2,Ciudad Autónoma de Buenos Aires
+2799,2800,2701,2702,CALLE,2077,Comuna 11,INDEC,207701008285,2000010,Ciudad Autónoma de Buenos Aires,MIGUEL COUTO,2,Ciudad Autónoma de Buenos Aires
+2799,2800,2701,2702,CALLE,2077,Comuna 11,INDEC,207701010170,2000010,Ciudad Autónoma de Buenos Aires,RUSIA,2,Ciudad Autónoma de Buenos Aires
+2699,2700,2601,2602,CALLE,2077,Comuna 11,INDEC,207701010545,2000010,Ciudad Autónoma de Buenos Aires,SIERRA GRANDE,2,Ciudad Autónoma de Buenos Aires
+2499,2500,2401,2402,CALLE,2077,Comuna 11,INDEC,207701011355,2000010,Ciudad Autónoma de Buenos Aires,VILLA JUNCAL,2,Ciudad Autónoma de Buenos Aires
+2799,2800,2701,2702,CALLE,2084,Comuna 12,INDEC,208401000765,2000010,Ciudad Autónoma de Buenos Aires,ARGELIA,2,Ciudad Autónoma de Buenos Aires
+1368,1369,1200,1201,CALLE,14014,Capital,INDEC,1401401025850,14014010,Córdoba,HIPOLITO MONTAGNE,14,Córdoba
+2199,2200,1801,1802,CALLE,2084,Comuna 12,INDEC,208401001810,2000010,Ciudad Autónoma de Buenos Aires,AVALOS,2,Ciudad Autónoma de Buenos Aires
+2899,2900,2801,2802,CALLE,2084,Comuna 12,INDEC,208401003475,2000010,Ciudad Autónoma de Buenos Aires,CARLOS MOLINA ARROTEA,2,Ciudad Autónoma de Buenos Aires
+3799,3800,3701,3702,CALLE,2084,Comuna 12,INDEC,208401004625,2000010,Ciudad Autónoma de Buenos Aires,DR HONORIO LEGUIZAMON,2,Ciudad Autónoma de Buenos Aires
+3599,3600,0,0,CALLE,2084,Comuna 12,INDEC,208401004445,2000010,Ciudad Autónoma de Buenos Aires,DIAZ COLODRERO,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2084,Comuna 12,INDEC,208401005090,2000010,Ciudad Autónoma de Buenos Aires,ELSA OCONNOR,2,Ciudad Autónoma de Buenos Aires
+5699,5700,5301,5302,CALLE,2084,Comuna 12,INDEC,208401005105,2000010,Ciudad Autónoma de Buenos Aires,EMILIO CIVIT,2,Ciudad Autónoma de Buenos Aires
+1899,1900,1801,1802,CALLE,2084,Comuna 12,INDEC,208401005760,2000010,Ciudad Autónoma de Buenos Aires,GAMARRA,2,Ciudad Autónoma de Buenos Aires
+5599,5600,5401,5402,CALLE,2084,Comuna 12,INDEC,208401006525,2000010,Ciudad Autónoma de Buenos Aires,ISLANDIA,2,Ciudad Autónoma de Buenos Aires
+0,0,0,0,CALLE,2084,Comuna 12,INDEC,208401006220,2000010,Ciudad Autónoma de Buenos Aires,GUSTAVO REARTE,2,Ciudad Autónoma de Buenos Aires
+5099,5100,4701,4702,CALLE,2084,Comuna 12,INDEC,208401006605,2000010,Ciudad Autónoma de Buenos Aires,JOAQUIN CASTELLANOS,2,Ciudad Autónoma de Buenos Aires

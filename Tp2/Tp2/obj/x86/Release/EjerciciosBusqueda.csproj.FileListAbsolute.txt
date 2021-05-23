@@ -1,0 +1,4 @@
+/home/lucas/Projects/Tp2/Tp2/obj/x86/Release/EjerciciosBusqueda.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/Tp2/Tp2/obj/x86/Release/Tp2.exe
+/home/lucas/Projects/Tp2/Tp2/bin/Release/Tp2.exe
+/home/lucas/Projects/Tp2/Tp2/obj/x86/Release/EjerciciosBusqueda.csprojAssemblyReference.cache

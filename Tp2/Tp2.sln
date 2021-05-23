@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosBusqueda", "Tp2\EjerciciosBusqueda.csproj", "{DB197105-87BF-4BE8-873E-038BD5709FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioStruct", "EjercicioStruct\EjercicioStruct.csproj", "{61712926-4148-4D78-B6CE-86E7A428E36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB197105-87BF-4BE8-873E-038BD5709FB5}.Debug|x86.ActiveCfg = Debug|x86
+		{DB197105-87BF-4BE8-873E-038BD5709FB5}.Debug|x86.Build.0 = Debug|x86
+		{DB197105-87BF-4BE8-873E-038BD5709FB5}.Release|x86.ActiveCfg = Release|x86
+		{DB197105-87BF-4BE8-873E-038BD5709FB5}.Release|x86.Build.0 = Release|x86
+		{61712926-4148-4D78-B6CE-86E7A428E36A}.Debug|x86.ActiveCfg = Debug|x86
+		{61712926-4148-4D78-B6CE-86E7A428E36A}.Debug|x86.Build.0 = Debug|x86
+		{61712926-4148-4D78-B6CE-86E7A428E36A}.Release|x86.ActiveCfg = Release|x86
+		{61712926-4148-4D78-B6CE-86E7A428E36A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

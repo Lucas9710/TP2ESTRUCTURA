@@ -1,0 +1,6 @@
+/home/lucas/Projects/Tp2/EjercicioStruct/bin/Debug/EjercicioStruct.exe
+/home/lucas/Projects/Tp2/EjercicioStruct/bin/Debug/EjercicioStruct.pdb
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Debug/EjercicioStruct.csproj.CoreCompileInputs.cache
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Debug/EjercicioStruct.exe
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Debug/EjercicioStruct.pdb
+/home/lucas/Projects/Tp2/EjercicioStruct/obj/x86/Debug/EjercicioStruct.csprojAssemblyReference.cache
