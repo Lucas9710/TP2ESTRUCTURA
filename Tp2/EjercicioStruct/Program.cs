@@ -174,7 +174,7 @@ namespace EjercicioStruct
 
             
 
-            //tpCsv.EjercicioCsv();
+            tpCsv.EjercicioCsv();
             tpCsv2.PedirCalle();
 
         }
